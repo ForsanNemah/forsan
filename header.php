@@ -1,15 +1,24 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>
 
 
-فرسان عبدالكريم علي علي النعمة
 
 
-  </title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+
+ 
+
+
+
+
+
+  <title>موقع المهندس  فرسان النعمة - حلول برمجية متكاملة وتطوير ويب احترافي</title>
+    <meta name="description" content="فرسان النعمة يقدم خدمات البرمجة وتطوير الويب، تصميم التطبيقات، وحلول تقنية متكاملة للشركات والأفراد. اكتشف خدماتنا المتنوعة لتطوير أعمالك وتحقيق نجاحك الرقمي.">
+
+
+
+
+
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">

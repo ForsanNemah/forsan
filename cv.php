@@ -14,10 +14,10 @@
       </h2>
       <p><span class="typed" data-typed-items="مهندس, مبرمج, خبير تسويق "></span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span></p>
       <div class="social-links">
-        <a href="#"><i class="bi bi-twitter-x"></i></a>
-        <a href="#"><i class="bi bi-facebook"></i></a>
-        <a href="#"><i class="bi bi-instagram"></i></a>
-        <a href="#"><i class="bi bi-linkedin"></i></a>
+        <a hidden href="#" ><i class="bi bi-twitter-x"></i></a>
+        <a hidden  href="#"><i class="bi bi-facebook"></i></a>
+        <a hidden  href="#"><i class="bi bi-instagram"></i></a>
+        <a href="https://www.linkedin.com/in/forsan-al-nemah-060739180/"><i class="bi bi-linkedin"></i></a>
       </div>
     </div>
   </div>
