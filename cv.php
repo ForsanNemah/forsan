@@ -12,7 +12,7 @@
 
 
       </h2>
-      <p><span class="typed" data-typed-items="مهندس, مبرمج, خبير تسويق "></span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span></p>
+      <p><span class="typed" data-typed-items="  مهندس حاسبات , مبرمج فل ستاك,    خبير تسويق الكتروني "></span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span></p>
       <div class="social-links">
         <a hidden href="#" ><i class="bi bi-twitter-x"></i></a>
         <a hidden  href="#"><i class="bi bi-facebook"></i></a>

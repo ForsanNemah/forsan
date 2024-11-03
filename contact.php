@@ -4,7 +4,7 @@
 <!-- Section Title -->
 <div class="container section-title" data-aos="fade-up">
   <h2>تواصل معي </h2>
-  <p>يمكنك التواصل معي الان بكل سهولة سواء للعمل او الحصول على استشارة </p>
+  <p>يمكنك التواصل معي الان بكل سهولة سواء للعمل او للحصول على استشارة مجانية </p>
 </div><!-- End Section Title -->
 
 <div class="container" data-aos="fade" data-aos-delay="100">
