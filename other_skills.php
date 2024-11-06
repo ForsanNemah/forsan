@@ -24,7 +24,7 @@
 
 
       <div class="progress">
-        <span class="skill"><span>Windows</span> <i class="val">  </i></span>
+        <span class="skill"><span>Windows / ويندوز </span> <i class="val">  </i></span>
         <div class="progress-bar-wrap">
           <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
         </div>
@@ -32,14 +32,14 @@
 
 
       <div class="progress">
-        <span class="skill"><span>Microsoft Office</span> <i class="val">  </i></span>
+        <span class="skill"><span>Microsoft Office / ميكروسوفت اوفيس </span> <i class="val">  </i></span>
         <div class="progress-bar-wrap">
           <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
         </div>
       </div><!-- End Skills Item -->
 
       <div class="progress">
-        <span class="skill"><span>Windows Server</span> <i class="val"> </i></span>
+        <span class="skill"><span>Windows Server / ويندوز سرفر</span> <i class="val"> </i></span>
         <div class="progress-bar-wrap">
           <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
         </div>
@@ -47,14 +47,14 @@
 
 
       <div class="progress">
-        <span class="skill"><span>Linux</span> <i class="val"> </i></span>
+        <span class="skill"><span>Linux / لينكس </span> <i class="val"> </i></span>
         <div class="progress-bar-wrap">
           <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
         </div>
       </div><!-- End Skills Item -->
 
       <div class="progress">
-        <span class="skill"><span>IT Supporting</span> <i class="val"> </i></span>
+        <span class="skill"><span>IT Supporting / الدعم الفني</span> <i class="val"> </i></span>
         <div class="progress-bar-wrap">
           <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
         </div>
@@ -65,14 +65,14 @@
     <div class="col-lg-6">
 
       <div class="progress">
-        <span class="skill"><span>Software Sales</span> <i class="val"></i></span>
+        <span class="skill"><span>Software Sales /خبر في مبيعات  البرمجيات</span> <i class="val"></i></span>
         <div class="progress-bar-wrap">
           <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
         </div>
       </div><!-- End Skills Item -->
 
       <div class="progress">
-        <span class="skill"><span>Troubleshooting</span> <i class="val"></i></span>
+        <span class="skill"><span>Troubleshooting /خبرة في التعامل مع المشاكل التقنية</span> <i class="val"></i></span>
         <div class="progress-bar-wrap">
           <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
         </div>
@@ -80,13 +80,28 @@
 
        
       <div class="progress">
-        <span class="skill"><span>Canva</span> <i class="val"></i></span>
+        <span class="skill"><span>Canva / تصميم العروض  والخطط باستخدام كانفا</span> <i class="val"></i></span>
         <div class="progress-bar-wrap">
           <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
         </div>
       </div><!-- End Skills Item -->
 
+
+
       
+
+
+      <div class="progress">
+        <span class="skill"><span>  سرعة انجاز المهام  باستخدام  الذكاء الصناعي   </span> <i class="val"></i></span>
+        <div class="progress-bar-wrap">
+          <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+        </div>
+      </div><!-- End Skills Item -->
+
+
+
+
+
  
  
       

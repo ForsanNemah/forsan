@@ -26,6 +26,7 @@
     <?php include "skills.php";?>
     <?php include "hosting.php";?>
     <?php include "other_skills.php";?>
+    <?php include "programes.php";?>
     <!-- /Skills Section -->
 
     <!-- Resume Section -->
