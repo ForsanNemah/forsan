@@ -5,6 +5,20 @@
 <?php include "w_app.php"; ?>
 <body class="index-page " dir="rtl">
 
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-ND69TKNV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+
+
+
+
 <?php include "nav.php" ;?>
 
   <main class="main">
